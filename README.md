@@ -6,3 +6,5 @@ project ini dibuat dengan
 -HTML
 -CSS
 -PHP
+ link web nya 
+ https://project2.iqbalmusyaffa.my.id
